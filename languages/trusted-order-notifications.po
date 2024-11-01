@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Thông báo các đơn hàng mới\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: https://vnfaster.com/\n"
+"MIME-Version: 1.0\n"
+"Language: vi_VN\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Text in echo
+#: options-dashboard.php:9
+msgid "Trusted Order Notifications Settings"
+msgstr "Cài đặt Thông báo khách hàng mới tin cậy"
+
+#. Text in echo
+#: options-dashboard.php:17
+msgid "Show on Mobile"
+msgstr "Hiện trên Mobile"
+
+#. Text in echo
+#: options-dashboard.php:25
+msgid "Transition Duration"
+msgstr "Thời gian hiện khách mới"
+
+#. Text in echo
+#: options-dashboard.php:26
+msgid "(Milliseconds)"
+msgstr "(Mili giây)"
+
+#. Text in echo
+#: options-dashboard.php:34
+msgid "Customer List"
+msgstr "Danh sách khách hàng"
+
+#. Text in echo
+#: options-dashboard.php:35
+msgid "Name|Phone Number|Time (one Per line)"
+msgstr "Tên|Số điện thoại|Thời gian (Mỗi khách một dòng)"
+
+#. Text in echo
+#: options-dashboard.php:45
+msgid "Background color"
+msgstr "Màu nền thông báo"
+
+#. Text in echo
+#: options-dashboard.php:51
+msgid "Notification text"
+msgstr "Mẫu thông báo"
+
+#. Text in echo
+#: options-dashboard.php:55
+msgid "Customer name"
+msgstr "Tên khách hàng"
+
+#. Text in echo
+#: options-dashboard.php:56
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#. Text in echo
+#: options-dashboard.php:57
+msgid "Minutes ago."
+msgstr "Phút trước."
+
+#. Text in echo
+#: options-dashboard.php:61
+msgid "Position"
+msgstr "Vị trí"
+
+#. Text in echo
+#: options-dashboard.php:91
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#. Text in echo
+#: options-dashboard.php:93
+msgid "For submitting any support queries, feedback, bug reports or feature requests, please visit <a href=\"https://vnfaster.com/\" target=\"_blank\">this link</a>."
+msgstr "Để gửi mọi hỗ trợ, phản hồi, báo cáo lỗi hoặc yêu cầu tính năng, vui lòng truy cập <a href=\"https://vnfaster.com/\" target=\"_blank\">liên kết này</a>."
+
+#. Text in echo
+#: class-trusted-order-notifications.php:335
+msgid "Enjoyed <strong>Trusted Order Notifications</strong>? Please leave us a <a href=\"https://vnfaster.com/\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. We really appreciate your support!"
+msgstr "Nếu thấy <strong>Trusted Order Notifications</strong> hữu ích với bạn, Bạn có thể đánh giá <a href=\"https://vnfaster.com/\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> sao. Chúng tôi rất vui được hỗ trợ bạn!"
